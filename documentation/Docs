@@ -1,0 +1,12 @@
+I’m Learning Python by Building My Own Study Tracker with AI as My Tutor
+Can AI Teach Me Python While I Build a Real Study Tracker?
+I’m Building a Study Tracker in Python from Scratch as a Beginner
+
+
+VISION
+    User can add study sessions
+    User can view study history
+    User can search by subject/topic
+    User can edit/delete entries
+    User can see totals and weak areas
+    Eventually: simple Flask web UI
